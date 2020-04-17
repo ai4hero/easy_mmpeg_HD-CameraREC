@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=HD-CameraREC
+Comment=HD-CameraREC
+Exec=sh /home/nano001/Desktop/HD-CameraREC/src/terminal-run.sh
+Icon=/home/nano001/Desktop/HD-CameraREC/imgs/REC.jpg
+Terminal=true
+Type=Application
+StartupNotify=true
+Categories=Application
+Name[zh_CN]=HD-CameraREC
